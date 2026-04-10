@@ -1,0 +1,17 @@
+export const colors = {
+  bg: '#0c0614',
+  bgElevated: '#140a22',
+  surface: '#1a0f2e',
+  surface2: '#241538',
+  border: '#3d2a5c',
+  purple: '#7c3aed',
+  purpleLight: '#a78bfa',
+  purpleDark: '#5b21b6',
+  gold: '#d4a853',
+  goldDim: '#9a7b3a',
+  goldBright: '#f5d78a',
+  text: '#f4f0ff',
+  textMuted: '#a89bc4',
+  danger: '#f87171',
+  success: '#34d399',
+} as const;
